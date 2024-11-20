@@ -1,0 +1,3 @@
+/Users/bartlomiej/Desktop/FLIPPER/CMakeFiles/FLIPPER.dir
+/Users/bartlomiej/Desktop/FLIPPER/CMakeFiles/edit_cache.dir
+/Users/bartlomiej/Desktop/FLIPPER/CMakeFiles/rebuild_cache.dir
